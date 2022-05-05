@@ -92,8 +92,7 @@
     <ResourceCompile Include="alt-blink.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="alt-blink.ico" />
-    <Image Include="small.ico" />
+    <Image Include="image\alt-blink.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
