@@ -1,6 +1,6 @@
-Ôªø//{{NO_DEPENDENCIES}}
-// Microsoft Visual C++ „ÅßÁîüÊàê„Åï„Çå„Åü„Ç§„É≥„ÇØ„É´„Éº„Éâ „Éï„Ç°„Ç§„É´„ÄÇ
-// alt-blink.rc „Åß‰ΩøÁî®
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ Ç≈ê∂ê¨Ç≥ÇÍÇΩÉCÉìÉNÉãÅ[Éh ÉtÉ@ÉCÉãÅB
+// alt-blink.rc Ç≈égóp
 //
 #define IDC_MYICON                      2
 #define IDD_ALTBLINK_DIALOG             102
@@ -10,6 +10,9 @@
 #define IDM_EXIT                        105
 #define IDI_ALTBLINK                    107
 #define IDC_ALTBLINK                    109
+#define IDR_TRAY_EXIT                   110
+#define IDR_TRAY_LOG                    111
+#define IDR_TRAY_RESET                  112
 #define IDR_MAINFRAME                   128
 #define IDC_STATIC                      -1
 
@@ -18,9 +21,9 @@
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
 #define _APS_NO_MFC                     1
-#define _APS_NEXT_RESOURCE_VALUE        129
+#define _APS_NEXT_RESOURCE_VALUE        131
 #define _APS_NEXT_COMMAND_VALUE         32771
 #define _APS_NEXT_CONTROL_VALUE         1000
-#define _APS_NEXT_SYMED_VALUE           110
+#define _APS_NEXT_SYMED_VALUE           113
 #endif
 #endif
